@@ -1,4 +1,4 @@
-# NordGTK
+# nord-gtk-xfce
 
 TODO
 
